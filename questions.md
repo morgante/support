@@ -3,7 +3,7 @@
 - Are you comfortable regularly assisting friends?
 - Are you comfortable regularly giving friends resources?
 - Are you comfortable regularly giving friends affection?
-
+- 
 
 - Are you comfortable giving friends company when they are having an emergency?
 - Are you comfortable giving friends emotional support when they are having an emergency?
