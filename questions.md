@@ -4,12 +4,19 @@
 * Are you comfortable regularly giving friends resources?
 * Are you comfortable regularly giving friends affection?
 
+
+
+
 - - -
 - Are you comfortable giving friends company when they are having an emergency?
 - Are you comfortable giving friends emotional support when they are having an emergency?
 - Are you comfortable assisting friends when they are having an emergency?
 - Are you comfortable giving friends resources when they are having an emergency?
 - Are you comfortable giving friends affection when they are having an emergency?
+
+
+
+
 
 - Are you comfortable regularly receive company from friends?
 - Are you comfortable regularly receiving emotional support from friends?
